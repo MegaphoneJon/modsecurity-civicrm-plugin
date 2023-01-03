@@ -1,4 +1,3 @@
-# Contributors to Template Plugin
+# Contributors to CiviCRM rule exclusions plugin
 
-- [Christian Folini](https://github.com/dune73)
-- [Felipe Zipitria](https://github.com/fzipi)
+- [Jon Goldberg](https://github.com/MegaphoneJon)
